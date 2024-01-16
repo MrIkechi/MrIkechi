@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ike Ochulo
-- 👀 I’m interested in app development with Python, data analytics and data science
-- 🌱 I’m currently climbing the steep learning cur e
+- 👀 I’m interested in data analytics, data science and data engineering
+- 🌱 I’m currently climbing the steep learning curve
 - 💞️ I’m looking to collaborate on data analytics and data science projects
 - 📫 How to reach me ikechichidi@gmail.com
 
